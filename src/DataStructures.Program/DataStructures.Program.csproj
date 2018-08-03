@@ -6,4 +6,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DataStructures.Lib\DataStructures.Lib.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.11.0" />
+  </ItemGroup>
 </Project>
